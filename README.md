@@ -3,14 +3,14 @@ InfoSci1073
 
 This is a Repo!  
 
-Jay Palat / vpalat@pitt.edu
+Yuwei Zhan / yuz60@pitt.edu
 ==================
 Three Facts About Me
 ---
 
-*   I enjoy reading.
-*   I am a Pitt Graduate.
-*   I have run a half-marathon.
+*   I enjoy playing basketball and table tennis.
+*   I am a graduate student at Pitt.
+*   I come from China.
 
 ---
-Make some changes locally.  I want to add  a sentence.
+Replaced facts.
